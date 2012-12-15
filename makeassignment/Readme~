@@ -1,0 +1,22 @@
+Christopher Din
+make an assignment
+
+1. Why is this assignment relevant to the Unix course?
+
+This assignment would be relevant to the Unix course because it works with the unix design philosophies. Like with the rule of modularity, you would seperate the calculator into different parts, like a function for adding, function for subtracting and so forth. With the Rule of Compositon, you can always add to this calculator and make it more useful such as adding exponents or squre roots. 
+
+
+This would have been a fun assignment, because you can actually see what you built and interact with it. You get practice with making a gui, and maybe that would help for when students have to do the final project too.  
+
+2. How should points be distributed?
+
+The percentage breakdown would be as follows:
+
+20% style (neatly written, commented code, and organized)
+80% would consist of the functionality
+    - add (20%)
+    - subtact (20%)
+    - multiply (20%)
+    - divide (20%)
+    
+If the code did not work, I think the best way to evaluate it this would be looking at the source code and looking at the functions, in order to give the partial credit. 
